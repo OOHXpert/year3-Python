@@ -1,0 +1,22 @@
+print("please answer the folowing questions")
+print("")
+
+food1 = input("enter a food")
+person1 = input("name a person")
+race1 = input("enter a race")
+nationality1 = input("enter a nationality")
+
+adjective1 = input("enter an adjective")
+ffs1 = ("enter a fast food restaraunt")
+ffs2 = input("enter a fast food restaraunt(different)")
+prize1 = input("enter a prize (trophie, money)")
+plot1 = input("name a plot twist")
+death1 = input("make a death (someone finneshed something)")
+print("")
+print("")
+print("")
+print("")
+print("your monstrosity")
+print("one day a person called" ,person1
+print("")
+
