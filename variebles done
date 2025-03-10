@@ -1,0 +1,11 @@
+name = input("enter your name ")
+print("hello " ,name)
+
+age = input("enter your age ")
+print("you're weird " ,name)
+
+colour = input("enter your favourite colour ")
+print("your favourite colour is " ,colour)
+
+team = input("enter your favourite team ")
+print(team, "sucks")
