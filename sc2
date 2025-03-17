@@ -1,0 +1,12 @@
+#Selection challenge 02 (GCSECS.com)
+#Fix the lines of code below
+#Check for correct indentation
+#Check the code is in the correct order
+#When fixed, the code should display…
+#... The sky is NOT blue
+
+skyColour = "purple"
+if skyColour == "blue":
+  print("the sky is blue today")
+else:
+  print ("the sky is NOT blue")
